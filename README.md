@@ -1,6 +1,4 @@
-## deprecated deprecated deprecated deprecated
 
-# PornHub Downloader
 
 [![GitHub Issues Open](https://github-basic-badges.herokuapp.com/issues/mariosemes/PornHub-downloader-python.svg)]()
 
@@ -110,9 +108,4 @@ Every time you add a new item (model/pornstar and so on), the script will scrape
 This should not bother you... I just wanted to explain how it works.
 
 
-# Big thanks to
-
-YouTube-DL <br />
-PrettyTables <br />
-BS4 aka BeautifulSoup4 <br />
-and of course, all of you :)
+# Big than
